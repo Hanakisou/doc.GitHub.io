@@ -1,0 +1,9 @@
+{
+  "name": "FogCloud",
+  "short_name": "FogCloud",
+  "description": "FogCloud WebSite",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#486BF9"
+}
